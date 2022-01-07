@@ -10,7 +10,6 @@ import Spinner from '../components/layout/Spinner'
 import ReposList from '../components/repos/ReposList'
 import GithubContext from '../context/github/GithubContext'
 import { getUserAndRepos } from '../context/github/GithubAction'
-import UserSearch from '../components/users/UserSearch'
  
 function User() {
 
